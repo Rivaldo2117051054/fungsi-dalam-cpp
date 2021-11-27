@@ -10,5 +10,5 @@ void test(){
 int main(){
 	
 	test();
-	//untuk memanggil fungsi test
+	//untuk memanggil fungsi test menggunakan kurung tutup
 }
