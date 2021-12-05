@@ -4,7 +4,7 @@ using namespace std;
 void test(){
 	string all=" Namaku Rivaldo jenis kelamin laki laki alamat lampung selatan";
 	cout<<all<<endl;
-	//fungsi test
+	//fungsi test diluar int main
 
 }
 int main(){
